@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Hiruni Ranathunga</h1>
 <h3 align="center">An undergraduate with enthusiasm, energy, and skill who is dedicated to working hard and eager to take on challenges. A responsible team player who can adapt to any situation and focus on any productive goals is also looking for an internship opportunity as a software engineer to apply and investigate current and emerging technologies in the field of information technology.</h3>
-![](https://tenor.com/bUHIQ.gif)
+<img src="https://tenor.com/bUHIQ.gif" width="400"/>
 
 - 🌱 I’m currently learning **at Univercity of Moratuwa, Sri Lanka as a IT undergraduate.**
 
