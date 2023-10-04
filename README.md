@@ -3,7 +3,7 @@
 </div>
 <hr>
 <div align="center">
-  <img width="400" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif"/>
+  <img width="400" src="[https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw0QrkdKe4Yihp0mhmgdqlAC&ust=1696497591209000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjI3pSI3IEDFQAAAAAdAAAAABAE)"/>
 </div>
 <h3 align="center">An undergraduate with enthusiasm, energy, and skill who is dedicated to working hard and eager to take on challenges. A responsible team player who can adapt to any situation and focus on any productive goals is also looking for an internship opportunity as a software engineer to apply and investigate current and emerging technologies in the field of information technology.</h3>
 <img src="https://tenor.com/bUHIQ.gif" width="400"/>
