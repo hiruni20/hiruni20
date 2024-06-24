@@ -6,7 +6,7 @@
   <img width="400" src=""/>
 </div>
 <h3 align="center">An undergraduate with enthusiasm, energy, and skill who is dedicated to working hard and eager to take on challenges. A responsible team player who can adapt to any situation and focus on any productive goals is also looking for an internship opportunity as a software engineer to apply and investigate current and emerging technologies in the field of information technology.</h3>
-<img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw1yBD4zE2LyPF7ohtBEf5T2&ust=1707296999534000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC21YqvloQDFQAAAAAdAAAAABAE" width="400"/>
+<img src="[https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw1yBD4zE2LyPF7ohtBEf5T2&ust=1707296999534000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC21YqvloQDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw2BYHGvYIdyv4R0LyHsmN19&ust=1719332262988000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjnrPvR9IYDFQAAAAAdAAAAABAE)" width="400"/>
 <div align="left">
   
  🌱 I’m currently learning **at Univercity of Moratuwa, Sri Lanka as a IT undergraduate.**
