@@ -6,8 +6,7 @@
   <img width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400" alt="Animated illustration"/>
 </div>
 <h3 align="center">An undergraduate with enthusiasm, energy, and skill who is dedicated to working hard and eager to take on challenges. A responsible team player who can adapt to any situation and focus on any productive goals is also looking for an internship opportunity as a software engineer to apply and investigate current and emerging technologies in the field of information technology.</h3>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400"/>
-<div align="left">
+
   
  🌱 I’m currently learning **at Univercity of Moratuwa, Sri Lanka as a IT undergraduate.**
 
